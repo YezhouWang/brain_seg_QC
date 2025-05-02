@@ -1,7 +1,7 @@
 # brain_seg_QC
 Perform the quality control on T1 MRI data using deep learning
 
-"""
+
 # BrainSegQC: Automated Brain Segmentation Quality Control
 
 This project automates quality control for brain tissue segmentation in T1-weighted MRI using a 3D U-Net model in PyTorch.
